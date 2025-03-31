@@ -10,9 +10,9 @@ require (
 	github.com/projectdiscovery/dnsx v1.2.2
 	github.com/projectdiscovery/fdmax v0.0.4
 	github.com/projectdiscovery/goflags v0.1.73
-	github.com/projectdiscovery/gologger v1.1.46
+	github.com/projectdiscovery/gologger v1.1.51
 	github.com/projectdiscovery/ratelimit v0.0.74
-	github.com/projectdiscovery/utils v0.4.12
+	github.com/projectdiscovery/utils v0.4.15
 	github.com/rs/xid v1.5.0
 	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
 	gopkg.in/yaml.v3 v3.0.1
